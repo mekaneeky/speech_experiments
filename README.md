@@ -6,4 +6,4 @@ This repository contains experiments related to speech recognition and keyword s
 - [x] Data collection tool
 - [x] Obtain WAV files from data collection tools
 - [x] Begin Exploratory Data Analysis on speech 
-- [] Begin experiments on Keyword spotting models
+- [ ] Begin experiments on Keyword spotting models
